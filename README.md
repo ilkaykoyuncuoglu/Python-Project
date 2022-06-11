@@ -18,3 +18,5 @@
    * (1, 1); (1, 2); ...; (6, 5); (6, 6) şeklinde.
    * Bu sayılardan (4, 4), (4, 2) ve (2, 4) gelmesi istendiği için de en sonda 3/36 sonucu ile gösterilmiştir.
    * n büyüdükçe verilerin bu orana yaklaşması beklenmektedir. Yani n 1 milyon alınırsa ya da 1 milyar, sonuçtaki oran 3/36'ya cok yakın çıkacaktır.
+
+4- Verilen tuple içinde, hangi elemanın kaç defa geçtiğini yazdıran kod bloğu.
