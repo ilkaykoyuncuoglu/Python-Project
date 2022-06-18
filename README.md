@@ -20,3 +20,7 @@
    * n büyüdükçe verilerin bu orana yaklaşması beklenmektedir. Yani n 1 milyon alınırsa ya da 1 milyar, sonuçtaki oran 3/36'ya cok yakın çıkacaktır.
 
 4- Verilen tuple içinde, hangi elemanın kaç defa geçtiğini yazdıran kod bloğu.
+
+5- (0 - 100) arasında sayılardan oluşan listedeki eksik olan n adet sayıyı bulan kod bloğu.
+
+6- Selected Sort Algoritması
