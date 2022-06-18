@@ -22,5 +22,8 @@
 4- Verilen tuple içinde, hangi elemanın kaç defa geçtiğini yazdıran kod bloğu.
 
 5- (0 - 100) arasında sayılardan oluşan listedeki eksik olan n adet sayıyı bulan kod bloğu.
+<<<<<<< HEAD
 
 6- Selected Sort Algoritması
+=======
+>>>>>>> 2af8573f8c5f77796c3dd51c7dea8f58621c56c1
