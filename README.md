@@ -25,3 +25,14 @@
 
 6- Selected Sort Algoritması
 
+7- istanbul_data isimli dosya içinde; 
+  * Tüm harfler küçük yapılmıştır,
+  * Noktalama işaretleri kaldırılmıştır,
+  * Bir satırdaki text sadece sayıdan oluşuyorsa o satır yeni dosyaya eklenmiştir,   
+  * Satır bazlı unique olacak. Mesela ilk satırda; Bugün neden gelmedin? yazıyor 5. satırda da aynı cümle birebir yazıyorsa bu eklenmiştir,
+  * ş ğ ü ö ç ı harfleri s g u o c i ile replace edilmiştir.
+
+8- OOP dosyası içinde;
+
+  a- Hayvanat bahcesi OOP uygulaması oluşturulmustur.
+  b- Quiz uygulaması OOP iile oluşturulmuştur.
