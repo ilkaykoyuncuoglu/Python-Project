@@ -36,3 +36,15 @@
 
   a- Hayvanat bahcesi OOP uygulaması oluşturulmustur.
   b- Quiz uygulaması OOP iile oluşturulmuştur.
+  
+9- Pandas Kütüphanesi Mini Uygulama
+   * Veri okuma
+   * index olarak atama
+   * Her kolonda toplam kacar tane Null deger oldugunu bulma 
+   * Null degerleri 'Eksik Deger' ile doldurma
+   * age_upon_outcome degeri '2 week' olan islemleri filtreleme
+   * Siyah Kedileri filtreleme
+   * Verisetindeki duplicated satir sayisini bulma
+   * Hangi hayvan turunden kacar satir veri var bulma
+   * Kedilerin sadece age_upon_outcome bilgilerini getirme
+   
